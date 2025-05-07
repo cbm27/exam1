@@ -4,7 +4,6 @@ export default function Home() {
   return (
     <>
     <h1>All customers</h1> 
-    CustomersList
-    </>
+    <CustomersList/>
   );
 }
