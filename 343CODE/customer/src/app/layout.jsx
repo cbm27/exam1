@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Customer Management system",
+
 };
 
 export default function RootLayout({ children }) {
